@@ -11,7 +11,7 @@ title                    : "Andrés Romero"
 title_separator          : "-"
 name                     : &name "Andrés Romero"
 description              : &description "PostDoc @ ETHZ"
-url                      : "https://affromero.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://affromero.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "affromero/affromero.github.io"
 teaser                   : "circle-cropped.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com.co/citations?user=k4m3LGIAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://afromero.co/en/
+  uri              : "https://afromero.co/en/"
   bitbucket        :
   codepen          :
   dribbble         :
